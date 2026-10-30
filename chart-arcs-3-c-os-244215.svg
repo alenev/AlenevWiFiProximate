@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Icon: chart-arcs-3
+  Set: Tabler Icons
+  Author: Paweł Kuna (https://github.com/tabler/tabler-icons)
+  License: MIT (https://github.com/tabler/tabler-icons/blob/master/LICENSE)
+  Source: https://iconify.design
+-->
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 24 24"
+     width="24"
+     height="24">
+  <title>Circular Sound Wave Icon</title>
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/"
+             xmlns:cc="http://creativecommons.org/ns#">
+      <cc:Work rdf:about="">
+        <dc:title>Circular Sound Wave Icon</dc:title>
+        <dc:description>A minimalistic icon featuring concentric circular lines radiating outward, representing sound waves, signals, or communication. Ideal for use in audio, technology, or broadcasting designs.</dc:description>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Paweł Kuna</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>https://github.com/tabler/tabler-icons</dc:source>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Paweł Kuna</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license rdf:resource="https://github.com/tabler/tabler-icons/blob/master/LICENSE"/>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>sound-wave</rdf:li>
+            <rdf:li>audio-icon</rdf:li>
+            <rdf:li>signal-icon</rdf:li>
+            <rdf:li>communication</rdf:li>
+            <rdf:li>broadcasting</rdf:li>
+            <rdf:li>radio-waves</rdf:li>
+            <rdf:li>sound-frequency</rdf:li>
+            <rdf:li>minimal-icon</rdf:li>
+            <rdf:li>technology-icon</rdf:li>
+            <rdf:li>concentric-circles</rdf:li>
+            <rdf:li>sound-design</rdf:li>
+            <rdf:li>audio-signal</rdf:li>
+            <rdf:li>podcast-icon</rdf:li>
+            <rdf:li>sound-transmission</rdf:li>
+            <rdf:li>sound-visualization</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="https://github.com/tabler/tabler-icons/blob/master/LICENSE">
+        <dc:title>MIT (MIT)</dc:title>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M11 12a1 1 0 1 0 2 0a1 1 0 1 0-2 0"/><path d="M7 12a5 5 0 1 0 5-5"/><path d="M6.29 18.957A9 9 0 1 0 12 3"/></g>
+</svg>
